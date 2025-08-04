@@ -34,4 +34,4 @@ Exemplo de SOAP API - Web Services
    </soapenv:Envelope>
 
 5. **Executar o servidor**
-   - No diretório aberto no VS Code, execute o comando: node server.js
+   - No diretório aberto no VS Code, execute os comandos: `npm install soap` e depois `node server.js`
